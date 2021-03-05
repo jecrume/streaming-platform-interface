@@ -10,6 +10,9 @@ function HomeScreen() {
             {/*Navigation Bar */}
             <Nav />
 
+            
+
+
             {/*Banner */}
 
 
